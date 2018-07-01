@@ -9,15 +9,15 @@ hl{
 }
 
 .start{
-display: block;
-background-color: purple;
-color: black;
-width: 5em;
-height: 5em:
-margin-right: auto;
-margin-left: auto;
-border-radius: 20px:
-line-height: 70px;
+  display: block;
+  background-color: purple;
+  color: black;
+  width: 5em;
+  height: 5em:
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px:
+  line-height: 70px;
 }
 
 
