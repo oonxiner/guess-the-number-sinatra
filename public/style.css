@@ -1,42 +1,26 @@
 body{
-  background-image: url('img/light-bg1.png');
-  text-align: center;
+  background-image: url('ing/light-bg1.png);
+  text-align: center; 
 }
 
-.title{
-  font-size: 5em;
-  font-family: 'Monoton', cursive;
-}
-
-p{
-  margin: 2em;
-  line-height: 1.5;
-}
-
-.number{
+hl{
   font-size: 3em;
-  width: 270px;
-  text-align: right;
-  margin-bottom: 1em;
+  font-family: ' Monoton', cursive;
 }
 
 .start{
   display: block;
-  background-color: pink;
-  color: white;
-  width: 3em;
-  height: 3em;
-  margin-left: auto;
+  background-color: purple;
+  color: black;
+  width: 5em;
+  height: 5em:
   margin-right: auto;
-  border-radius: 2.5em;
-  line-height: 140px;
-  font-size: 3em;
-  text-decoration: none;
-  border: 0;
+  margin-left: auto;
+  border-radius: 20px:
+  line-height: 70px;
 }
 
-.start:hover{
-  transition: background-color 2s;
-  background-color: red;
-}
 
+start:hover {
+  transition: background-color: blue
+}
