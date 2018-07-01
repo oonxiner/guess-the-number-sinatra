@@ -1,26 +1,41 @@
 body{
-  background-image: url('ing/light-bg1.png);
-  text-align: center; 
+  background-image: url('img/light-bg1.png');
+  text-align: center;
 }
 
-hl{
+.title{
+  font-size: 5em;
+  font-family: 'Monoton', cursive;
+}
+
+p{
+  margin: 2em;
+  line-height: 1.5;
+}
+
+.number{
   font-size: 3em;
-  font-family: ' Monoton', cursive;
+  width: 270px;
+  text-align: right;
+  margin-bottom: 1em;
 }
 
 .start{
   display: block;
-  background-color: purple;
-  color: black;
-  width: 5em;
-  height: 5em:
-  margin-right: auto;
+  background-color: pink;
+  color: white;
+  width: 3em;
+  height: 3em;
   margin-left: auto;
-  border-radius: 20px:
-  line-height: 70px;
+  margin-right: auto;
+  border-radius: 2.5em;
+  line-height: 140px;
+  font-size: 3em;
+  text-decoration: none;
+  border: 0;
 }
 
-
-start:hover {
-  transition: background-color: blue
+.start:hover{
+  transition: background-color 2s;
+  background-color: red;
 }
